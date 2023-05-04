@@ -57,3 +57,22 @@ body{
 .estudante-div{
     text-align: center;
 }
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns:  19% 19% 19% 19% 19%;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 13px;
+}
